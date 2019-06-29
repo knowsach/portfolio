@@ -32,3 +32,14 @@ p{
     font-size: 30px;
     color: #FFFFFF;
 }
+
+@media only screen and (max-width: 600px) {
+    /* p{
+        font-size: 20px;
+    } */
+    .content{
+        width: 400px;
+        margin-left: 50%;
+        transform: translate(-200px);
+    }
+}
