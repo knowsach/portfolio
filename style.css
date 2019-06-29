@@ -43,3 +43,26 @@ p{
         transform: translate(-200px);
     }
 }
+
+@media only screen and (max-width : 400px){
+  
+    .img{
+        width: 200px;
+        height: 200px;
+        margin-left: 50%;
+        transform: translate(-100px);
+    }
+
+    p{
+        font-size: 20px;
+    }
+    .content{
+        width: 300px;
+        margin-left: 50%;
+        transform: translate(-150px);
+    }
+
+    .links{
+        font-size: 18px;
+    }
+}
