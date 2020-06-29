@@ -6,7 +6,7 @@
     transform: translate(-150px);
 }
 
-.container{
+.custom-container{
     background-color: rgb(151, 230, 233);
 }
 
@@ -24,7 +24,7 @@ p{
 
 .content{
     color: aquamarine;
-    width: 600px;
+    width: 800px;
     margin-left: 50%;
     transform: translate(-300px);
 }
